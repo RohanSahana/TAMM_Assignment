@@ -34,7 +34,6 @@ class UniversityDetailsActivity : AppCompatActivity() {
         )
 
         val bgColor = intent.getIntExtra("bgColor", 0)
-        Log.d("bgColor", "$bgColor")
         // Create a CardView
         val cardView = createUniversityCardView(university, bgColor)
 

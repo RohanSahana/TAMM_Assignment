@@ -5,7 +5,7 @@ import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 
 object Converters {
-
+    // For Converting variables in the Univerty.kt file
     @TypeConverter
     @JvmStatic
     fun fromString(value: String): List<String> {

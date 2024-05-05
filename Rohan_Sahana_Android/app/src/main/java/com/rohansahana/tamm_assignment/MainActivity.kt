@@ -37,7 +37,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // Inject dependencies using Dagger
         (application as UniversityApplication).applicationComponent.inject(this)
-
+        
+        // MultiBinding Implementation
         val map = (application as UniversityApplication).applicationComponent.getMap()
 
         // Initialize ViewModel using ViewModelProvider and Dagger's ViewModelFactory
