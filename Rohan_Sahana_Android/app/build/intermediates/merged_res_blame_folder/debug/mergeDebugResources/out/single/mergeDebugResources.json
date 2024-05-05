@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_refresh_icon.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\refresh_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\layout_activity_university_details.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\layout\\activity_university_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.rohansahana.tamm_assignment.app-debug-65:/mipmap-anydpi_ic_launcher.webp.flat",
+        "source": "com.rohansahana.tamm_assignment.app-main-67:/mipmap-anydpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_gradient_ffc75f_f9f871.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\gradient_ffc75f_f9f871.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_circular_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\circular_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_gradient_ff6f91_ff9671.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\gradient_ff6f91_ff9671.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_right_arrow_icon.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\right_arrow_icon.xml"
+    },
+    {
+        "merged": "com.rohansahana.tamm_assignment.app-debug-65:/mipmap-anydpi_ic_launcher_round.webp.flat",
+        "source": "com.rohansahana.tamm_assignment.app-main-67:/mipmap-anydpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_gradient_ff9671_ffc75f.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\gradient_ff9671_ffc75f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_gradient_d65db1_ff6f91.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\gradient_d65db1_ff6f91.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-debug-65:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.rohansahana.tamm_assignment.app-main-67:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

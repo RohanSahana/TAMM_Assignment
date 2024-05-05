@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rohansahana.tamm_assignment.app-mergeDebugResources-63:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\672d3ed6163cb3ef9a47474822ccb2b3\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

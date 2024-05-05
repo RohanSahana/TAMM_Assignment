@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable circular_background
+drawable gradient_d65db1_ff6f91
+drawable gradient_ff6f91_ff9671
+drawable gradient_ff9671_ffc75f
+drawable gradient_ffc75f_f9f871
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable refresh_icon
+drawable right_arrow_icon
+id parentLayout
+id refreshButton
+id universities
+layout activity_main
+layout activity_university_details
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.TAMM_Assignment
+xml backup_rules
+xml data_extraction_rules
+xml network_security_config
